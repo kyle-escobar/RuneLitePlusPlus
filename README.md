@@ -1,8 +1,13 @@
-![](https://i.imgur.com/OVRdQBz.png)
 
 
 
-# RuneLitePlus [![Build Status](https://travis-ci.org/runelite-extended/runelite.svg?branch=master)](https://travis-ci.org/runelite-extended/runelite) [![Discord](https://img.shields.io/discord/373382904769675265.svg)](https://discord.gg/HN5gf3m)
+
+# RuneLitePlusPlus [![Build Status](https://travis-ci.org/runelite-extended/runelite.svg?branch=master)](https://travis-ci.org/runelite-extended/runelite) [![Discord](https://img.shields.io/discord/373382904769675265.svg)](https://discord.gg/HN5gf3m)
+
+## RunelitePlusPlus
+This is a for from the original runeliteplus repo with added customized plugins that make thing easier.
+
+---
 
 [RuneLitePlus](https://runelitepl.us)  is a fork of [RuneLite](https://github.com/runelite/runelite) that provides more functionality and less restrictions while staying open source. This is meant to directly compete with 3rd party RL clients that are trying to sell their code.
 
